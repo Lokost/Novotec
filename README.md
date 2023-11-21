@@ -7,6 +7,7 @@
 * [Formulário POST](Formulário%20POST/)
 * [Revisão Geral](Revisão%20geral/)
 * [Tela responsiva](Tela%20responsiva/)
+* [Lista de tarefas com Firebase](Firebase/)
 
 Até o momento foram apensa essas que criamos. Em breve, criaremos mais páginas, e cada uma melhor que a outra!
 
